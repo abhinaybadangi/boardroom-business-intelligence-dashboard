@@ -1,6 +1,15 @@
 # Boardroom Business Intelligence Dashboard
 
-A **6-page executive-level analytics solution** designed to help leadership understand not just revenue, but **profitability, efficiency, risk, and business performance drivers**.
+Most dashboards show revenue.
+
+Very few explain what is actually happening to profit.
+
+This project was built as a **Boardroom Command Center** to help leadership understand:
+- where profit is being made
+- where margin is leaking
+- what decisions need attention
+
+This is not just a dashboard — it is a **decision support system**.
 
 🔗 **Live Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMDg4NjU5MjEtNzRlMi00NzZmLTg5MmYtODMyNzEwMDY1YWY3IiwidCI6IjY0YTk1YzRkLTk0YmQtNGRmMy1hNmIyLTFkZDE3NWEyYWY2YSJ9
 
@@ -118,12 +127,23 @@ This dashboard was designed with a **business-first mindset**, focusing on:
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🚀 Business Impact
 
-* Power BI
-* DAX (Advanced Measures)
-* Data Modeling
-* Business KPI Design
+This dashboard helps leadership:
+
+- Identify profit leakage across cost, freight, and returns  
+- Evaluate true effectiveness of promotional strategies  
+- Monitor risk exposure from returns and product performance  
+- Improve decision-making through structured KPI visibility  
+
+👉 Moves reporting from descriptive → decision-driven analytics
+
+## 🛠️ Technical Foundation
+
+- Data modeling for business logic alignment  
+- Advanced DAX for KPI calculations (YoY, MoM, margins)  
+- Interactive filtering for dynamic analysis  
+- Structured dashboard design for executive consumption  
 
 ---
 
