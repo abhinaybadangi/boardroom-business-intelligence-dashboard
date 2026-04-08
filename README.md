@@ -49,6 +49,7 @@ This dashboard was designed with a **business-first mindset**, focusing on:
 * High-level KPIs (Revenue, Profit, Margin, Orders, AOV)
 * Revenue trend with YoY and MoM comparison
 * Category and regional performance overview
+<img src="https://github.com/user-attachments/assets/0628c4ac-6681-4815-a487-29d3e090ec0b" width="100%" />
 
 ---
 
