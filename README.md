@@ -119,24 +119,30 @@ This dashboard was designed with a **business-first mindset**, focusing on:
 
 ## 💡 Key Insights
 
-* Revenue alone does not reflect business health
-* Promotions can increase revenue but reduce profitability
-* Certain categories drive higher return risk, impacting margins
-* Profitability varies significantly across channels and products
-* Discounting strategies need optimization
+- Revenue is strong, but **profitability varies significantly across categories**
+- Promotions generate similar revenue but **lower profit → inefficiency**
+- Returns are a major contributor to **profit erosion**
+- Certain products drive revenue but have **low margins**
+- Discount-heavy categories show **reduced profit efficiency**
+
+👉 Insight: Growth without margin control is risky.
 
 ---
 
 ## 🚀 Business Impact
 
-This dashboard helps leadership:
+This dashboard enables leadership to:
 
-- Identify profit leakage across cost, freight, and returns  
-- Evaluate true effectiveness of promotional strategies  
-- Monitor risk exposure from returns and product performance  
-- Improve decision-making through structured KPI visibility  
+- Identify **profit leakage drivers** (discounts, returns, freight)
+- Evaluate **promotion effectiveness vs actual profitability**
+- Pinpoint **high-risk categories and regions**
+- Optimize **product mix and pricing strategies**
+- Shift focus from revenue to **sustainable profitability**
 
-👉 Moves reporting from descriptive → decision-driven analytics
+📊 Outcome:
+- Better strategic decisions
+- Improved margin control
+- Data-driven executive insights
 
 ## 🛠️ Technical Foundation
 
@@ -146,6 +152,21 @@ This dashboard helps leadership:
 - Structured dashboard design for executive consumption  
 
 ---
+
+## 📁 Data
+
+- Synthetic dataset created for demonstration purposes
+- Mimics real-world commerce data:
+  - Sales
+  - Profit
+  - Discounts
+  - Promotions
+  - Returns
+## ▶️ How to Use
+
+- Use filters (Year, Month, Category) to explore trends
+- Navigate across pages for different business views
+- Hover over visuals for deeper insights
 
 ## 📌 Key Features
 
