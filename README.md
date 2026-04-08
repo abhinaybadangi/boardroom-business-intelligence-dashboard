@@ -1,5 +1,3 @@
-# boardroom-business-intelligence-dashboard
-
 # Boardroom Business Intelligence Dashboard
 
 A **6-page executive-level analytics solution** designed to help leadership understand not just revenue, but **profitability, efficiency, risk, and business performance drivers**.
